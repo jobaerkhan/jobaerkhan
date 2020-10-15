@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **jobaer.iitdu@gmail.com**
 
-- 📄 Know about my experiences [jobaerkhan.github.io](jobaerkhan.github.io)
+- 📄 Portfolio <a href="https://jobaerkhan.github.io">https://jobaerkhan.github.io</a>
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
