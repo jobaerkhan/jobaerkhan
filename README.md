@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jobaer</h1>
 <h3 align="center">A technology enthusiast who loves to explore new technologies and leverage it to solve real-life problems.<br /> Currtenly, I am doing my <a href="https://www.tue.nl/en/education/graduate-school/pdeng-software-technology/"> PDEng </a> from Eindhoven University of Technology.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jobaerkhan&label=Profile%20views&color=0e75b6&style=flat" alt="jobaerkhan" /> </p>
+
 - 📫 How to reach me **jobaer.iitdu@gmail.com**
 
 - 📄 Portfolio <a href="https://jobaerkhan.github.io">https://jobaerkhan.github.io</a>
