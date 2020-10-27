@@ -2,8 +2,6 @@
 <h3 align="center">A technology enthusiast who loves to explore new technologies and leverage it to solve real-life problems.<br /> Currtenly, I am doing my <a href="https://www.tue.nl/en/education/graduate-school/pdeng-software-technology/"> PDEng </a> from Eindhoven University of Technology.</h3>
 
 
-- 📫 How to reach me **jobaer.iitdu@gmail.com**
-
 - 📄 Portfolio <a href="https://jobaerkhan.github.io" target="_blank">https://jobaerkhan.github.io</a>
 
 <p align="left">
